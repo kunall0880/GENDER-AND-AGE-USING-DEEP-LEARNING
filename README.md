@@ -4,9 +4,13 @@
 -------------------------------------------------------------------------------------------------
 
 IF YOU WANT TO RUN IN LOCAL 
+
 Prerequisites
+
 Python: Ensure you have Python installed. Preferably Python 3.7 or later.
+
 Virtual Environment: It's a good practice to use virtual environments to manage dependencies.
+
 Step 1: Set Up a Virtual Environment
 Open a terminal and create a virtual environment:
 
